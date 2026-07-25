@@ -21,12 +21,12 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-name: Amit Kumar
-location: Agra, India
-education: B.Tech in Computer Science — RBS Engineering Technical Campus, Agra
-focus: Android (Kotlin) & Flutter app development, UI/UX design (Figma)
-experience: Web & App Dev Intern @ Robonox — React.js + Node.js
-status: Open to Android / Flutter Developer roles
+Name: Amit Kumar
+Location: Agra, India
+Education: B.Tech in Computer Science — RBS Engineering Technical Campus, Agra [2022-2026]
+Focus: Android (Kotlin) & Flutter app development, UI/UX design (Figma)
+Experience: Web & App Dev Intern @ Robonox — React.js + Node.js
+Status: Open to Android / Flutter Developer roles
 ```
 
 - 📱 Build **Android apps** with Kotlin + MVVM + Firebase, and **cross-platform apps** with Flutter + Riverpod
