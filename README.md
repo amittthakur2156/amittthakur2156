@@ -3,6 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amit+Kumar+%F0%9F%91%8B;Android+%2B+Flutter+Developer;UI%2FUX+Designer+(Figma);Kotlin+%E2%80%A2+Flutter+%E2%80%A2+Firebase+%E2%80%A2+MVVM;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Android%20%7C%20Flutter%20Developer-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/amit-kumar-b28b95264" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -23,7 +27,7 @@
 ```yaml
 Name: Amit Kumar
 Location: Agra, India
-Education: B.Tech in Computer Science — RBS Engineering Technical Campus, Agra [2022-2026]
+Education: B.Tech in Computer Science — RBS Engineering Technical Campus, Agra  [2022-2026]
 Focus: Android (Kotlin) & Flutter app development, UI/UX design (Figma)
 Experience: Web & App Dev Intern @ Robonox — React.js + Node.js
 Status: Open to Android / Flutter Developer roles
