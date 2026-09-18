@@ -132,6 +132,42 @@ Android app to fetch current GPS location
 </td>
 <td width="50%" valign="top">
 
+**[👕 AI-Wardrobe](https://github.com/amittthakur2156/AI-Wardrobe)**
+AI-powered Android wardrobe app — digital closet with AI garment analysis and decluttering suggestions
+`Kotlin` `Supabase` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🎥 360Camera](https://github.com/amittthakur2156/360Camera)**
+Android 360° panorama camera app
+`C++`
+
+</td>
+<td width="50%" valign="top">
+
+**[🧟 2D Zombie Shooter](https://github.com/amittthakur2156/2D_Zombie_Shooter)**
+2D zombie shooter game built with Android Studio and Kotlin
+`Kotlin` `Android Studio`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🧠 AI Mental Health Chatbot](https://github.com/amittthakur2156/AI-Mental-Health-Chatbot)**
+AI-based chatbot for mental wellness support and conversations
+`Python` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+**[🌐 Portfolio Website](https://github.com/amittthakur2156/portfolio-website)**
+Personal portfolio website showcasing projects and skills
+`HTML` `CSS` `JavaScript`
+
 </td>
 </tr>
 </table>
