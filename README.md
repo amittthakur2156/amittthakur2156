@@ -43,6 +43,8 @@ Status: Open to Android / Flutter Developer roles
 
 ## 🆕 Recently Built
 
+**[🌸 Bloom](https://github.com/amittthakur2156/Bloom-Android-App)** — a women's wellness companion Android app built with Kotlin and Jetpack Compose. Features a guided 4-step onboarding flow, personalized wellness dashboard, daily goals, PCOS FAQ, cycle and symptom check-in shortcuts, local preference persistence, and lifecycle-aware AdMob App Open and adaptive Banner Ads. Uses MVVM architecture and reusable Compose components.
+
 **[WorkSync AI](https://github.com/amittthakur2156/WorkSync-AI)** — a Flutter team collaboration & project management app built with Firebase, Riverpod, GoRouter, and Clean Architecture. Includes authentication, project creation & management, member invitations, task management, calendar view, and an AI Assistant chat screen.
 
 <br/>
@@ -75,6 +77,13 @@ Status: Open to Android / Flutter Developer roles
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+**[🌸 Bloom](https://github.com/amittthakur2156/Bloom-Android-App)**
+Women's wellness Android app with guided onboarding, daily goals, personalized dashboard, and AdMob integration
+`Kotlin` `Jetpack Compose` `MVVM` `AdMob`
+
+</td>
 <td width="50%" valign="top">
 
 **[🧩 WorkSync AI](https://github.com/amittthakur2156/WorkSync-AI)**
